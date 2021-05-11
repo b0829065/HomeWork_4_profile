@@ -12,6 +12,8 @@ class UserGithub extends React.Component {
             about:'',
             company:'',
             html_url:'',
+            created_at:'',
+            updated_at:'',
         }
     }
     componentDidMount() {
